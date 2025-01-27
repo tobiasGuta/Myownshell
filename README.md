@@ -2,6 +2,15 @@
 
 Myownshell is a web-based terminal emulator with a sleek. It allows users to execute commands directly from their browser, complete with a Discord webhook-based authentication system for secure access.
 
+## Important Notes:
+Do Not Misuse: This tool should never be used for malicious purposes, such as unauthorized access to systems, data theft, or any activity that violates laws or ethical guidelines.
+
+Responsible Use: Always ensure you have proper authorization before running commands on any system. Misuse of this tool can lead to legal consequences.
+
+For Good Purposes: Use this tool to enhance your skills, automate tasks, or manage systems responsibly.
+
+By using Myownshell, you agree to use it ethically and responsibly. The developers of this tool are not responsible for any misuse or damage caused by its use.
+
 ## Features ✨
 Web-Based Terminal: Execute commands directly from your browser.
 

@@ -41,6 +41,20 @@ The terminal supports basic commands and tracks the current directory.
 
 https://github.com/user-attachments/assets/873a80d5-2285-4839-b905-8b72174983f0
 
+
+
+Step 1: Token Generation
+"Whenever you load the webshell.php, a new authentication token is generated and sent to your Discord channel via a webhook. This token is required to gain access to the terminal."
+
+Step 2: Token Expiry
+"Here's an important note: Only the most recently sent token is valid for authentication. If a new token is generated (for example, by refreshing the page or loading the terminal again), the old token becomes invalid. This ensures that the system remains secure and prevents the reuse of expired tokens."
+
+Step 3: Demonstration
+"Let me show you how this works. I'll generate a new token and send it to Discord. Then, I'll use that token to authenticate. If I try to use an old token, the system will reject it."
+
+Step 4: Example of Invalid Token
+"Now, I'll try to use an old token that was sent earlier. As you can see, the system rejects it because only the most recent token is valid."
+
 ## Installation 🚀
 Clone the Repository:
 ```bash
